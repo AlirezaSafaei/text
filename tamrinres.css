@@ -615,5 +615,11 @@ text-align: center;
     background-color: blue;
     font: 100;
 }
+#alidiv{
+    width: 50%;
+    height: 50%;
+    background-color: red;
+    font: 100;
+}
 
 
